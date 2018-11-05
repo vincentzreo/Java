@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec1f218a-fb27-4141-8597-f466911437ca" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/zzq/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zzq/StackTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zzq/listTest001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="ec1f218a-fb27-4141-8597-f466911437ca" name="Default" comment="持有对象">
+      <change afterPath="$PROJECT_DIR$/src/com/zzq/SetOfInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zzq/SetOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zzq/Statistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zzq/UniqueWords.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Think in java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Think in java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Think in java/com/zzq/AdaptedRandomDoubles.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Think in java/com/zzq/AdaptedRandomDoubles.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Think in java/com/zzq/Art.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Think in java/com/zzq/Cartoon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Think in java/com/zzq/Cleanser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Think in java/com/zzq/Cleanser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Think in java/com/zzq/Drawing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Think in java/com/zzq/Practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Think in java/com/zzq/Practice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zzq/AdaptedRandomDoubles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zzq/AdaptedRandomDoubles.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,22 +25,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="17" />
+          <entry key="java" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="17" />
+          <entry key="JAVA" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1527" />
+          <entry key="java" value="2442" />
+          <entry key="txt" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1527" />
+          <entry key="JAVA" value="2442" />
+          <entry key="PLAIN_TEXT" value="4" />
         </counts>
       </usages-collector>
     </session>
@@ -76,13 +70,62 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/zzq/StackTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="11" column="50" lean-forward="true" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+            <state relative-caret-position="396">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
               <folding>
                 <element signature="e#127#135#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zzq/SetOfInteger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zzq/SetOperations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zzq/UniqueWords.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#178#186#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/zzq/Statistics.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="31">
+              <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+              <folding>
+                <element signature="e#247#265#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -104,10 +147,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/zzq/RandDoubles.java" />
-        <option value="$PROJECT_DIR$/src/com/zzq/Factories.java" />
-        <option value="$PROJECT_DIR$/src/com/zzq/Chess.java" />
-        <option value="$PROJECT_DIR$/src/com/zzq/Games.java" />
         <option value="$PROJECT_DIR$/src/com/zzq/Parcell.java" />
         <option value="$PROJECT_DIR$/src/com/zzq/Parcel2.java" />
         <option value="$PROJECT_DIR$/src/com/zzq/SequenceSelector.java" />
@@ -155,6 +194,10 @@
         <option value="$PROJECT_DIR$/src/com/zzq/listTest001.java" />
         <option value="$PROJECT_DIR$/src/com/zzq/Stack.java" />
         <option value="$PROJECT_DIR$/src/com/zzq/StackTest.java" />
+        <option value="$PROJECT_DIR$/src/com/zzq/SetOfInteger.java" />
+        <option value="$PROJECT_DIR$/src/com/zzq/SetOperations.java" />
+        <option value="$PROJECT_DIR$/src/com/zzq/UniqueWords.java" />
+        <option value="$PROJECT_DIR$/src/com/zzq/Statistics.java" />
       </list>
     </option>
   </component>
@@ -226,7 +269,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541417476375" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541420499526" />
     <property name="last_opened_file_path" value="D:/net.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -245,9 +288,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StackTest">
-    <configuration name="AddingGroups" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zzq.AddingGroups" />
+  <component name="RunManager" selected="Application.Statistics">
+    <configuration name="SetOfInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zzq.SetOfInteger" />
       <module name="Think in java" />
       <extension name="coverage">
         <pattern>
@@ -259,21 +302,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintingContainers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zzq.PrintingContainers" />
-      <module name="Think in java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.zzq.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SimpleCollection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zzq.SimpleCollection" />
+    <configuration name="SetOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zzq.SetOperations" />
       <module name="Think in java" />
       <extension name="coverage">
         <pattern>
@@ -298,8 +328,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="listTest001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zzq.listTest001" />
+    <configuration name="Statistics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zzq.Statistics" />
+      <module name="Think in java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zzq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniqueWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zzq.UniqueWords" />
       <module name="Think in java" />
       <extension name="coverage">
         <pattern>
@@ -312,19 +355,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SimpleCollection" />
-      <item itemvalue="Application.listTest001" />
-      <item itemvalue="Application.AddingGroups" />
-      <item itemvalue="Application.PrintingContainers" />
       <item itemvalue="Application.StackTest" />
+      <item itemvalue="Application.SetOfInteger" />
+      <item itemvalue="Application.SetOperations" />
+      <item itemvalue="Application.UniqueWords" />
+      <item itemvalue="Application.Statistics" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Statistics" />
+        <item itemvalue="Application.UniqueWords" />
+        <item itemvalue="Application.SetOperations" />
+        <item itemvalue="Application.SetOfInteger" />
         <item itemvalue="Application.StackTest" />
-        <item itemvalue="Application.listTest001" />
-        <item itemvalue="Application.PrintingContainers" />
-        <item itemvalue="Application.AddingGroups" />
-        <item itemvalue="Application.SimpleCollection" />
       </list>
     </recent_temporary>
   </component>
@@ -367,12 +410,20 @@
       <workItem from="1530524602531" duration="1947000" />
       <workItem from="1530959445372" duration="2226000" />
       <workItem from="1531056275747" duration="4285000" />
-      <workItem from="1541411279530" duration="6194000" />
+      <workItem from="1541411279530" duration="9121000" />
     </task>
+    <task id="LOCAL-00001" summary="持有对象">
+      <created>1541417738152</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1541417738153</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="117225000" />
+    <option name="totallyTimeSpent" value="120152000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -387,7 +438,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.40851063" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.79432625" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -414,29 +465,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="持有对象" />
+    <option name="LAST_COMMIT_MESSAGE" value="持有对象" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/zzq/RandomWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zzq/SequenceSelector.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/zzq/Contents.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zzq/Destination.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/zzq/Warpping.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
@@ -802,10 +835,51 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/zzq/StackTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="11" column="50" lean-forward="true" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+        <state relative-caret-position="396">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="e#127#135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zzq/SetOfInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zzq/SetOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zzq/UniqueWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#178#186#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zzq/Statistics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <folding>
+            <element signature="e#247#265#0" expanded="true" />
           </folding>
         </state>
       </provider>
