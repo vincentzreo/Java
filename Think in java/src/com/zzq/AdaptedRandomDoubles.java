@@ -1,7 +1,9 @@
 package com.zzq;
-import java.io.IOException;
+
 import java.nio.*;
 import java.util.*;
+
+
 
 public class AdaptedRandomDoubles extends RandDoubles implements Readable {
     private int count;
@@ -22,5 +24,6 @@ public class AdaptedRandomDoubles extends RandDoubles implements Readable {
         Scanner s = new Scanner(new AdaptedRandomDoubles(7));
         while (s.hasNextDouble())
             System.out.println(s.nextDouble() + " ");
+
     }
 }
