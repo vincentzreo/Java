@@ -1,23 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec1f218a-fb27-4141-8597-f466911437ca" name="Default" comment="容器">
-      <change afterPath="$PROJECT_DIR$/src/com/zzq/Concatenation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zzq/DatabaseException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zzq/Finding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zzq/Groups.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zzq/Immutable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zzq/InfiniteRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zzq/IntegerMatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zzq/Replacing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zzq/Rudolph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zzq/SimpleFormat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zzq/Splitting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zzq/StartEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zzq/TestRegularExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zzq/Turtle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zzq/UsingStringBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zzq/WhitherStringBuilder.java" afterDir="false" />
+    <list default="true" id="ec1f218a-fb27-4141-8597-f466911437ca" name="Default" comment="String">
+      <change afterPath="$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Cymric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/EgyptianMau.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Hamster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Individual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Manx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Mutt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/PetCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Pug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Rat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Rodent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zzq/typeinfo/ClassCasts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zzq/typeinfo/ClassInitialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zzq/typeinfo/FilledList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zzq/typeinfo/GenericToyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zzq/typeinfo/Shapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zzq/typeinfo/SweetShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zzq/typeinfo/ToyTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -31,34 +37,35 @@
     <session id="-1344132259">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.30" value="2" />
           <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.36" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="44" />
+          <entry key="java" value="78" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="44" />
+          <entry key="JAVA" value="78" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="7636" />
-          <entry key="txt" value="16" />
+          <entry key="java" value="10569" />
+          <entry key="txt" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="7636" />
-          <entry key="PLAIN_TEXT" value="16" />
+          <entry key="JAVA" value="10569" />
+          <entry key="PLAIN_TEXT" value="22" />
         </counts>
       </usages-collector>
     </session>
@@ -66,98 +73,94 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zzq/DatabaseException.java">
+        <entry file="file://$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Mouse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+            <state relative-caret-position="144">
+              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zzq/IntegerMatch.java">
+        <entry file="file://$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Mutt.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+            <state relative-caret-position="144">
+              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zzq/Splitting.java">
+        <entry file="file://$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="13" column="44" lean-forward="true" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
-              <folding>
-                <element signature="e#301#302#0" expanded="true" />
-                <element signature="e#337#338#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="108">
+              <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zzq/Replacing.java">
+        <entry file="file://$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Pet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="72">
+              <caret line="2" column="30" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zzq/Rudolph.java">
+        <entry file="file://$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Pug.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="144">
+              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zzq/TestRegularExpression.java">
+        <entry file="file://$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Rat.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="180">
+              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zzq/Finding.java">
+        <entry file="file://$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Rodent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
-              <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zzq/Groups.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="792">
-              <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="144">
+              <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/zzq/StartEnd.java">
+        <entry file="file://$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/PetCreator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="37" column="44" lean-forward="true" selection-start-line="37" selection-start-column="44" selection-end-line="37" selection-end-column="44" />
+            <state relative-caret-position="583">
+              <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Individual.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="11" column="49" lean-forward="true" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Manx.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -178,29 +181,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/zzq/MultiNestingAccess.java" />
-        <option value="$PROJECT_DIR$/src/com/zzq/MultiInterfaces.java" />
-        <option value="$PROJECT_DIR$/src/com/zzq/MultiImplementation.java" />
-        <option value="$PROJECT_DIR$/src/com/zzq/Callbacks.java" />
-        <option value="$PROJECT_DIR$/src/com/zzq/Event.java" />
-        <option value="$PROJECT_DIR$/src/com/zzq/Controller.java" />
-        <option value="$PROJECT_DIR$/src/com/zzq/GreenhouseControls.java" />
-        <option value="$PROJECT_DIR$/src/com/zzq/GreenhouseController.java" />
-        <option value="$PROJECT_DIR$/src/com/zzq/InheritInner.java" />
-        <option value="$PROJECT_DIR$/src/com/zzq/BigEgg.java" />
-        <option value="$PROJECT_DIR$/src/com/zzq/LocalInnerClass.java" />
-        <option value="$PROJECT_DIR$/src/com/zzq/PassingThis.java" />
-        <option value="$PROJECT_DIR$/src/com/zzq/GenericAndUpcasting.java" />
-        <option value="$PROJECT_DIR$/src/com/zzq/AddingGroups.java" />
-        <option value="$PROJECT_DIR$/src/com/zzq/Practice.java" />
-        <option value="$PROJECT_DIR$/src/com/zzq/Practice2.java" />
-        <option value="$PROJECT_DIR$/src/com/zzq/ApplesAndOrangesWithoutGenerics.java" />
-        <option value="$PROJECT_DIR$/src/com/zzq/AsListInference.java" />
-        <option value="$PROJECT_DIR$/src/com/zzq/PrintingContainers.java" />
-        <option value="$PROJECT_DIR$/src/com/zzq/AdaptedRandomDoubles.java" />
-        <option value="$PROJECT_DIR$/src/com/zzq/SimpleCollection.java" />
-        <option value="$PROJECT_DIR$/src/com/zzq/listTest001.java" />
-        <option value="$PROJECT_DIR$/src/com/zzq/Stack.java" />
         <option value="$PROJECT_DIR$/src/com/zzq/StackTest.java" />
         <option value="$PROJECT_DIR$/src/com/zzq/SetOfInteger.java" />
         <option value="$PROJECT_DIR$/src/com/zzq/SetOperations.java" />
@@ -229,6 +209,29 @@
         <option value="$PROJECT_DIR$/src/com/zzq/Finding.java" />
         <option value="$PROJECT_DIR$/src/com/zzq/Groups.java" />
         <option value="$PROJECT_DIR$/src/com/zzq/StartEnd.java" />
+        <option value="$PROJECT_DIR$/src/com/zzq/typeinfo/Shape.java" />
+        <option value="$PROJECT_DIR$/src/com/zzq/typeinfo/Shapes.java" />
+        <option value="$PROJECT_DIR$/src/com/zzq/typeinfo/SweetShop.java" />
+        <option value="$PROJECT_DIR$/src/com/zzq/typeinfo/ToyTest.java" />
+        <option value="$PROJECT_DIR$/src/com/zzq/typeinfo/ClassInitialization.java" />
+        <option value="$PROJECT_DIR$/src/com/zzq/typeinfo/FilledList.java" />
+        <option value="$PROJECT_DIR$/src/com/zzq/typeinfo/GenericToyTest.java" />
+        <option value="$PROJECT_DIR$/src/com/zzq/typeinfo/ClassCasts.java" />
+        <option value="$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Individual.java" />
+        <option value="$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Person.java" />
+        <option value="$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Pet.java" />
+        <option value="$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Mutt.java" />
+        <option value="$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Pug.java" />
+        <option value="$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Cat.java" />
+        <option value="$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/EgyptianMau.java" />
+        <option value="$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Manx.java" />
+        <option value="$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Cymric.java" />
+        <option value="$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Rodent.java" />
+        <option value="$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Rat.java" />
+        <option value="$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Mouse.java" />
+        <option value="$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Hamster.java" />
+        <option value="$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Dog.java" />
+        <option value="$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/PetCreator.java" />
       </list>
     </option>
   </component>
@@ -250,8 +253,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -275,21 +278,7 @@
               <item name="Think in java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="zzq" type="462c0819:PsiDirectoryNode" />
-              <item name="ApplesAndOrangesWithoutGenerics.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="Think in java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Think in java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="zzq" type="462c0819:PsiDirectoryNode" />
-              <item name="GenericAndUpcasting.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="Think in java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Think in java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="zzq" type="462c0819:PsiDirectoryNode" />
-              <item name="listTest001.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="pets" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -300,7 +289,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541849598935" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542112495679" />
     <property name="last_opened_file_path" value="D:/net.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -319,13 +308,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StartEnd">
-    <configuration name="Finding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zzq.Finding" />
+  <component name="RunManager" selected="Application.ClassCasts">
+    <configuration name="ClassCasts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zzq.typeinfo.ClassCasts" />
       <module name="Think in java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zzq.*" />
+          <option name="PATTERN" value="com.zzq.typeinfo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -333,12 +322,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Groups" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zzq.Groups" />
+    <configuration name="ClassInitialization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zzq.typeinfo.ClassInitialization" />
       <module name="Think in java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zzq.*" />
+          <option name="PATTERN" value="com.zzq.typeinfo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -346,12 +335,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rudolph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zzq.Rudolph" />
+    <configuration name="FilledList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zzq.typeinfo.FilledList" />
       <module name="Think in java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zzq.*" />
+          <option name="PATTERN" value="com.zzq.typeinfo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -359,12 +348,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StartEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zzq.StartEnd" />
+    <configuration name="GenericToyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zzq.typeinfo.GenericToyTest" />
       <module name="Think in java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zzq.*" />
+          <option name="PATTERN" value="com.zzq.typeinfo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -372,12 +361,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestRegularExpression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zzq.TestRegularExpression" />
+    <configuration name="ToyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zzq.typeinfo.ToyTest" />
       <module name="Think in java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zzq.*" />
+          <option name="PATTERN" value="com.zzq.typeinfo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -386,19 +375,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Rudolph" />
-      <item itemvalue="Application.TestRegularExpression" />
-      <item itemvalue="Application.Finding" />
-      <item itemvalue="Application.Groups" />
-      <item itemvalue="Application.StartEnd" />
+      <item itemvalue="Application.ToyTest" />
+      <item itemvalue="Application.ClassInitialization" />
+      <item itemvalue="Application.FilledList" />
+      <item itemvalue="Application.GenericToyTest" />
+      <item itemvalue="Application.ClassCasts" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StartEnd" />
-        <item itemvalue="Application.Groups" />
-        <item itemvalue="Application.Finding" />
-        <item itemvalue="Application.TestRegularExpression" />
-        <item itemvalue="Application.Rudolph" />
+        <item itemvalue="Application.ClassCasts" />
+        <item itemvalue="Application.GenericToyTest" />
+        <item itemvalue="Application.FilledList" />
+        <item itemvalue="Application.ClassInitialization" />
+        <item itemvalue="Application.ToyTest" />
       </list>
     </recent_temporary>
   </component>
@@ -444,7 +433,9 @@
       <workItem from="1541411279530" duration="9227000" />
       <workItem from="1541489762329" duration="4101000" />
       <workItem from="1541753765299" duration="5611000" />
-      <workItem from="1541839730574" duration="6682000" />
+      <workItem from="1541839730574" duration="7871000" />
+      <workItem from="1541918052979" duration="1233000" />
+      <workItem from="1542103256035" duration="7590000" />
     </task>
     <task id="LOCAL-00001" summary="持有对象">
       <created>1541417738152</created>
@@ -467,11 +458,18 @@
       <option name="project" value="LOCAL" />
       <updated>1541753855531</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="String">
+      <created>1541849698611</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1541849698611</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="136652000" />
+    <option name="totallyTimeSpent" value="146664000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -486,7 +484,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16085792" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16487935" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -494,8 +492,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5858156" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36737588" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -556,170 +554,10 @@
     <MESSAGE value="持有对象" />
     <MESSAGE value="持有对象map" />
     <MESSAGE value="容器" />
-    <option name="LAST_COMMIT_MESSAGE" value="容器" />
+    <MESSAGE value="String" />
+    <option name="LAST_COMMIT_MESSAGE" value="String" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/zzq/BigEgg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zzq/InheritInner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="13" column="47" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zzq/GreenhouseControls.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="49" column="26" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zzq/Controller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zzq/Event.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zzq/PassingThis.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zzq/Practice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zzq/Practice2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zzq/AsListInference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zzq/ArraysOfPrimitives.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zzq/Parcel7b.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zzq/Parcel2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="31" column="47" lean-forward="true" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zzq/Parcel10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zzq/Parcel11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="67">
-          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zzq/AdaptedRandomDoubles.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zzq/ApplesAndOrangesWithoutGenerics.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zzq/GenericAndUpcasting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zzq/SimpleCollection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zzq/AddingGroups.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zzq/PrintingContainers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="21" column="58" lean-forward="true" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zzq/listTest001.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="583">
-          <caret line="56" column="8" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zzq/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/zzq/StackTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
@@ -738,9 +576,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="6" column="26" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -776,9 +611,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -786,10 +618,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="684">
           <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-          <folding>
-            <element signature="e#625#626#0" expanded="true" />
-            <element signature="e#698#699#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -846,9 +674,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -863,9 +688,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="828">
           <caret line="25" column="24" lean-forward="true" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -887,10 +709,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="223">
           <caret line="13" column="44" lean-forward="true" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
-          <folding>
-            <element signature="e#301#302#0" expanded="true" />
-            <element signature="e#337#338#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -912,9 +730,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -922,9 +737,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127">
           <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -932,16 +744,176 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="792">
           <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zzq/StartEnd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="37" column="44" lean-forward="true" selection-start-line="37" selection-start-column="44" selection-end-line="37" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zzq/typeinfo/Shape.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/zzq/typeinfo/Shapes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zzq/StartEnd.java">
+    <entry file="file://$PROJECT_DIR$/src/com/zzq/typeinfo/SweetShop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="37" column="44" lean-forward="true" selection-start-line="37" selection-start-column="44" selection-end-line="37" selection-end-column="44" />
+        <state relative-caret-position="80">
+          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zzq/typeinfo/ClassInitialization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="35" column="36" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zzq/typeinfo/ToyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="36" column="44" lean-forward="true" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zzq/typeinfo/GenericToyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="13" column="61" lean-forward="true" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zzq/typeinfo/FilledList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="25" column="42" lean-forward="true" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zzq/typeinfo/ClassCasts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="9" column="46" lean-forward="true" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Cymric.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/EgyptianMau.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Hamster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Individual.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="11" column="49" lean-forward="true" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Manx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Mouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Mutt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Pet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" column="30" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Pug.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Rat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/Rodent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zzq/com/zzq/typeinfo/pets/PetCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
